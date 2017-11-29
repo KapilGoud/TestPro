@@ -5,7 +5,7 @@ public class Test {
 		
 		System.out.println("hello Git");
 		System.out.println("Made first change");
-		System.out.println("Made second change");
+		System.out.println("Made second cha
 		System.out.println("Made Third change");
 	}
 
