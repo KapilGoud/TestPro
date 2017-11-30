@@ -1,4 +1,3 @@
-
 public class Test {
 	
 	public static void main(String[] args) {
@@ -7,6 +6,8 @@ public class Test {
 		System.out.println("Made first change");
 		System.out.println("Made second change");
 		System.out.println("Made Third change");
+		System.out.println("Made fourth change");
+		
 	}
 
 }
